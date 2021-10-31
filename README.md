@@ -82,5 +82,4 @@ Contacts 	: kumar@roboti.us
 
 ### samples/pi_robot.urdf
 
-https://www.pirobot.org/blog/0014/
-https://www.pirobot.org/blog/0014/pi_robot_urdf.xml
+https://github.com/pirobot/rbx2/blob/indigo-devel/rbx2_description/urdf/pi_robot/pi_robot.urdf
